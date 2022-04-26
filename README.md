@@ -1,5 +1,5 @@
 # wdev-site
-
+Vue 2 e Axios
 ## Project setup
 ```
 npm install
